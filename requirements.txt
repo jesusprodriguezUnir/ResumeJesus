@@ -1,2 +1,7 @@
 streamlit>=1.28.0
 feedparser>=6.0.10
+pytest
+fpdf2
+pydantic
+plotly
+fpdf2>=2.7.6
